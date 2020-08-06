@@ -1,0 +1,17 @@
+1.글씨를 진하게 <strong> </strong>
+2.글씨밑에 밑줄 <u></u>
+3.제목 <h1~6></h1~6> 숫자가 올라갈수록  글씨작 작아짐
+4.단락나누기 <p></p>
+5.줄바꿈 <br>
+6.이미지넣기 <img>  <img src(소스)="coding.jpg" width(이미지크기)="100%"> or 숫자
+7.목차넣기 자식태그 <Li></Li>  부모태그 <ul>  <Li>Html</Li>        </ul>
+8.앞에 숫자 넣기 넘버<ol></ol> 
+9.페이지상위에 있는 타이틀 <title></title>
+10.한글이 깨질때 확인 아래 UTF-8 을 <meta charset="utf-8">
+11.본문은 <body></body> 묶어야됨
+12.본문을 설명하는 바디태그는 <head></head> 묶어야됨
+13.<!doctype html> 이문서는 HTML이다라는 표시
+14.문장에 링크걸기 <a href="링크주소복붙"></a>
+ex)새탭으로 열리게 하고 싶으면 <a href="링크주소복붙" target="blank"></a> 
+ex)여기있는 이 링크가 무엇인지 알려주고 싶다 툴팁으로!!
+   	 <a href="링크주소복붙" target="blank" title="내용"></a> 
